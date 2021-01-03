@@ -2,40 +2,53 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="en_US">
 <context>
+    <name>FiltersWidget</name>
+    <message>
+        <location filename="../../appwidgets/filterswidget.cpp" line="9"/>
+        <source>tabs.filters.types</source>
+        <translation>Types</translation>
+    </message>
+    <message>
+        <location filename="../../appwidgets/filterswidget.cpp" line="10"/>
+        <source>tabs.filters.region</source>
+        <translation>Region</translation>
+    </message>
+</context>
+<context>
     <name>HeaderWidget</name>
     <message>
         <location filename="../../appwidgets/headerwidget.cpp" line="9"/>
-        <source>app.header.scan_btn</source>
+        <source>header.scan</source>
         <translation>Scan</translation>
     </message>
     <message>
         <location filename="../../appwidgets/headerwidget.cpp" line="12"/>
-        <source>app.header.organize_btn</source>
+        <source>header.organize</source>
         <translation>Organize Files</translation>
     </message>
     <message>
         <location filename="../../appwidgets/headerwidget.cpp" line="15"/>
-        <source>app.header.pull_btn</source>
+        <source>header.pull</source>
         <translation>Pull</translation>
     </message>
     <message>
         <location filename="../../appwidgets/headerwidget.cpp" line="18"/>
-        <source>app.header.update_titledb_btn</source>
+        <source>header.update_titledb</source>
         <translation>Update TitleDB</translation>
     </message>
     <message>
         <location filename="../../appwidgets/headerwidget.cpp" line="21"/>
-        <source>app.header.decompress_nsz_btn</source>
+        <source>header.decompress_nsz</source>
         <translation>Decompress NSZ</translation>
     </message>
     <message>
         <location filename="../../appwidgets/headerwidget.cpp" line="24"/>
-        <source>app.header.compress_nsz_btn</source>
+        <source>header.compress_nsp</source>
         <translation>Compress NSP</translation>
     </message>
     <message>
         <location filename="../../appwidgets/headerwidget.cpp" line="27"/>
-        <source>app.header.grant_gdrive_btn</source>
+        <source>header.grant_google_oauth</source>
         <translation>Setup GDrive OAuth</translation>
     </message>
     <message>
@@ -53,37 +66,37 @@
     <name>MainWindow</name>
     <message>
         <location filename="../../appwidgets/mainwindow.cpp" line="33"/>
-        <source>central_widget.tab.files</source>
+        <source>tabs.files</source>
         <translation>Files</translation>
     </message>
     <message>
         <location filename="../../appwidgets/mainwindow.cpp" line="34"/>
-        <source>central_widget.tab.filters</source>
+        <source>tabs.filters</source>
         <translation>Filters</translation>
     </message>
     <message>
         <location filename="../../appwidgets/mainwindow.cpp" line="35"/>
-        <source>central_widget.tab.save_paths</source>
+        <source>tabs.save_paths</source>
         <translation>Save Paths</translation>
     </message>
     <message>
         <location filename="../../appwidgets/mainwindow.cpp" line="36"/>
-        <source>central_widget.tab.local_scan_paths</source>
+        <source>tabs.local_scan_paths</source>
         <translation>Local Scan Paths</translation>
     </message>
     <message>
         <location filename="../../appwidgets/mainwindow.cpp" line="37"/>
-        <source>central_widget.tab.remote_pull_paths</source>
+        <source>tabs.remote_pull_paths</source>
         <translation>Remote Pull Paths</translation>
     </message>
     <message>
         <location filename="../../appwidgets/mainwindow.cpp" line="38"/>
-        <source>central_widget.tab.users</source>
+        <source>tabs.users</source>
         <translation>Users</translation>
     </message>
     <message>
         <location filename="../../appwidgets/mainwindow.cpp" line="39"/>
-        <source>central_widget.tab.options</source>
+        <source>tabs.options</source>
         <translation>Options</translation>
     </message>
     <message>
@@ -103,27 +116,19 @@
     </message>
     <message>
         <location filename="../../appwidgets/mainwindow.cpp" line="47"/>
+        <location filename="../../appwidgets/mainwindow.cpp" line="49"/>
         <source>menu_bar.help.about</source>
         <translation>About</translation>
     </message>
     <message>
         <location filename="../../appwidgets/mainwindow.cpp" line="49"/>
-        <source>about_window_title</source>
-        <translation>About</translation>
-    </message>
-    <message>
-        <location filename="../../appwidgets/mainwindow.cpp" line="49"/>
-        <source>about_window_text</source>
-        <translation>Placeholder About Text</translation>
+        <source>menu_bar.help.about_text</source>
+        <translation>About Text Placeholder</translation>
     </message>
     <message>
         <location filename="../../appwidgets/mainwindow.cpp" line="51"/>
-        <source>menu_bar.help.aboutqt</source>
-        <translation>About Qt</translation>
-    </message>
-    <message>
         <location filename="../../appwidgets/mainwindow.cpp" line="53"/>
-        <source>about_qt_window_title</source>
+        <source>menu_bar.help.aboutqt</source>
         <translation>About Qt</translation>
     </message>
     <message>
