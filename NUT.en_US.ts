@@ -4,12 +4,12 @@
 <context>
     <name>FiltersWidget</name>
     <message>
-        <location filename="../../appwidgets/filterswidget.cpp" line="10"/>
+        <location filename="../../appwidgets/filterswidget.cpp" line="11"/>
         <source>tabs.filters.types</source>
         <translation>Types</translation>
     </message>
     <message>
-        <location filename="../../appwidgets/filterswidget.cpp" line="11"/>
+        <location filename="../../appwidgets/filterswidget.cpp" line="19"/>
         <source>tabs.filters.region</source>
         <translation>Region</translation>
     </message>
@@ -19,17 +19,17 @@
         <translation>Base</translation>
     </message>
     <message>
-        <location filename="../../appwidgets/filterswidget.cpp" line="17"/>
+        <location filename="../../appwidgets/filterswidget.cpp" line="16"/>
         <source>tabs.filters.types.dlc</source>
         <translation>DLC</translation>
     </message>
     <message>
-        <location filename="../../appwidgets/filterswidget.cpp" line="19"/>
+        <location filename="../../appwidgets/filterswidget.cpp" line="17"/>
         <source>tabs.filters.types.update</source>
         <translation>Update</translation>
     </message>
     <message>
-        <location filename="../../appwidgets/filterswidget.cpp" line="21"/>
+        <location filename="../../appwidgets/filterswidget.cpp" line="18"/>
         <source>tabs.filters.types.demo</source>
         <translation>Demo</translation>
     </message>
@@ -163,6 +163,24 @@
         <location filename="../../appwidgets/progresswidget.cpp" line="13"/>
         <source>0%</source>
         <translation>0%</translation>
+    </message>
+</context>
+<context>
+    <name>SavePathsWidget</name>
+    <message>
+        <location filename="../../appwidgets/savepathswidget.cpp" line="9"/>
+        <source>tabs.save_paths.nsp</source>
+        <translation>NSP</translation>
+    </message>
+    <message>
+        <location filename="../../appwidgets/savepathswidget.cpp" line="12"/>
+        <source>tabs.save_paths.nsz</source>
+        <translation>NSZ</translation>
+    </message>
+    <message>
+        <location filename="../../appwidgets/savepathswidget.cpp" line="15"/>
+        <source>tabs.save_paths.xci</source>
+        <translation>XCI</translation>
     </message>
 </context>
 </TS>
