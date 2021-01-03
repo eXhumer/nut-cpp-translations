@@ -4,14 +4,34 @@
 <context>
     <name>FiltersWidget</name>
     <message>
-        <location filename="../../appwidgets/filterswidget.cpp" line="9"/>
+        <location filename="../../appwidgets/filterswidget.cpp" line="10"/>
         <source>tabs.filters.types</source>
         <translation>Types</translation>
     </message>
     <message>
-        <location filename="../../appwidgets/filterswidget.cpp" line="10"/>
+        <location filename="../../appwidgets/filterswidget.cpp" line="11"/>
         <source>tabs.filters.region</source>
         <translation>Region</translation>
+    </message>
+    <message>
+        <location filename="../../appwidgets/filterswidget.cpp" line="15"/>
+        <source>tabs.filters.types.base</source>
+        <translation>Base</translation>
+    </message>
+    <message>
+        <location filename="../../appwidgets/filterswidget.cpp" line="17"/>
+        <source>tabs.filters.types.dlc</source>
+        <translation>DLC</translation>
+    </message>
+    <message>
+        <location filename="../../appwidgets/filterswidget.cpp" line="19"/>
+        <source>tabs.filters.types.update</source>
+        <translation>Update</translation>
+    </message>
+    <message>
+        <location filename="../../appwidgets/filterswidget.cpp" line="21"/>
+        <source>tabs.filters.types.demo</source>
+        <translation>Demo</translation>
     </message>
 </context>
 <context>
